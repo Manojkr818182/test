@@ -1,9 +1,9 @@
 # Node.js dependencies
 node_modules/
-uploads/
 # Logs
 *.log
 logs/
+
 pids/
 *.pid
 *.pid.lock
