@@ -12,3 +12,7 @@ const pq2r = () => {
 const pq2r12 = () => {
   return `Hello......`;
 }
+
+const Pkjkjkj = () => {
+  return `Hello......`;
+}
